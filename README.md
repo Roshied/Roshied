@@ -52,9 +52,9 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username_github>&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshied&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username_github>&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshied&layout=compact)
 
 ---
 
