@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <Roshied Mohammad>
+# 👋 Hi, I'm Roshied Mohammad
 
 🎓 Final-year **Biomedical Engineering** student  
 💻 Aspiring **Software / Machine Learning Engineer**  
